@@ -37,7 +37,7 @@ O projeto é baseado em um modelo conceitual que visa representar o funcionament
 
 - `README.md` – documentação e contexto do projeto
 - `ecommerce_model.png` – imagem do modelo conceitual
-- `ecommerce-database.sql` – script de criação do banco de dados com todas as tabelas, chaves primárias e estrangeiras
+- `script_database.sql` – script de criação do banco de dados com todas as tabelas, chaves primárias e estrangeiras
 
   
 ---
